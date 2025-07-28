@@ -1,6 +1,6 @@
 # SignUp and Login Page – Validation
 
-## SignUp Page Validation
+## 🔑 SignUp Page Validation
 The SignUp page includes the following validation restrictions implemented using JavaScript:
 
 ### Username:
