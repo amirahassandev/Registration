@@ -59,19 +59,19 @@
 
  - The page where users enter their details with validation messages.
 
-  - <img width="1366" height="609" alt="reg1" src="https://github.com/user-attachments/assets/3bbe4a4b-cf84-4e02-a6c4-968845a28a09" />
+   - <img width="1366" height="609" alt="reg1" src="https://github.com/user-attachments/assets/3bbe4a4b-cf84-4e02-a6c4-968845a28a09" />
 
 
 
  - Validation error messages appear when any field is not filled properly.
 
-  - <img width="1366" height="598" alt="reg1" src="https://github.com/user-attachments/assets/78d0e0ad-fa1f-45a1-aa22-57f7aa58662f" />
+   - <img width="1366" height="598" alt="reg1" src="https://github.com/user-attachments/assets/78d0e0ad-fa1f-45a1-aa22-57f7aa58662f" />
 
 
 
  - Message displayed for invalid password
 
-  - <img width="1366" height="596" alt="reg1" src="https://github.com/user-attachments/assets/4e3b681c-34f7-4343-afcd-1057f56f0f17" />
+   - <img width="1366" height="596" alt="reg1" src="https://github.com/user-attachments/assets/4e3b681c-34f7-4343-afcd-1057f56f0f17" />
 
 
 
