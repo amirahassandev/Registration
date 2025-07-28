@@ -3,76 +3,78 @@
 ## SignUp Page Validation
 The SignUp page includes the following validation restrictions implemented using JavaScript:
 
-#### Username:
+### Username:
 
-Must not be empty
+ Must not be empty
 
-Must have a length of 6 characters or more
+ Must have a length of 6 characters or more
 
-Must only contain letters (string)
-
-
-#### Email:
-
-Must not be empty
-
-Must include @gmail.com
+ Must only contain letters (string)
 
 
-#### Password:
+### Email:
 
-Must not be empty
+ Must not be empty
 
-Must have a length of 6 characters or more
-
-Must include at least one special character (e.g., !@#$%^&*())
+ Must include @gmail.com
 
 
-#### Confirm Password:
+### Password:
 
-Must not be empty
+ Must not be empty
 
-Must match the Password field
+ Must have a length of 6 characters or more
+
+ Must include at least one special character (e.g., !@#$%^&*())
 
 
-##### Example of SignUp Validation:
-Invalid Username: If the username is less than 6 characters or empty.
+### Confirm Password:
 
-Invalid Email: If the email is empty or doesn't include @gmail.com.
+ Must not be empty
 
-Invalid Password: If the password is too short or doesn't contain special characters.
+ Must match the Password field
 
-Confirm Password Mismatch: If the confirm password does not match the entered password.
+
+### Example of SignUp Validation:
+ Invalid Username: If the username is less than 6 characters or empty.
+
+ Invalid Email: If the email is empty or doesn't include @gmail.com.
+
+ Invalid Password: If the password is too short or doesn't contain special characters.
+
+ Confirm Password Mismatch: If the confirm password does not match the entered password.
 
 
 
 
 ## 🔑 Login Page Validation
-##### On the Login page:
+ ### On the Login page:
 
-Email and Password are validated to ensure they are correct.
+  Email and Password are validated to ensure they are correct.
 
-#### If the entered email or password is incorrect:
+ ### If the entered email or password is incorrect:
 
-A message appears saying "Invalid user" for invalid credentials.
+  A message appears saying "Invalid user" for invalid credentials.
 
 
-Screenshot Examples:
-SignUp Page (Screenshot 326): The page where users enter their details with validation messages.
+The page where users enter their details with validation messages.
+
+<img width="1366" height="609" alt="reg1" src="https://github.com/user-attachments/assets/3bbe4a4b-cf84-4e02-a6c4-968845a28a09" />
 
 
 
 Validation error messages appear when any field is not filled properly.
 
+<img width="1366" height="598" alt="reg1" src="https://github.com/user-attachments/assets/78d0e0ad-fa1f-45a1-aa22-57f7aa58662f" />
 
 
-Login Page (Screenshot 328): The page where users log in with their credentials.
+
+Message displayed for invalid credentials
+
+<img width="1366" height="596" alt="reg1" src="https://github.com/user-attachments/assets/4e3b681c-34f7-4343-afcd-1057f56f0f17" />
 
 
-Message displayed for invalid credentials: "Invalid user".
 
-
-Error Handling (Screenshot 343): Example of invalid login attempt with the message "Invalid user".
 
 
 ### How to Run the Project
