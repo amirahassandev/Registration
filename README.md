@@ -69,7 +69,7 @@ Validation error messages appear when any field is not filled properly.
 
 
 
-Message displayed for invalid credentials
+Message displayed for invalid password
 
 <img width="1366" height="596" alt="reg1" src="https://github.com/user-attachments/assets/4e3b681c-34f7-4343-afcd-1057f56f0f17" />
 
